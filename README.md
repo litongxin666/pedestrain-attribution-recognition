@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Implement of Deep Multi-attribute Recognition model under ResNet50 backbone network
 
 ## Preparation
@@ -97,3 +98,6 @@ Partial codes are based on the repository from [Houjing Huang](https://github.co
 The code should only be used for academic research.
 
 </font>
+=======
+# pedestrain-attribution-recognition
+>>>>>>> 32b1a6d6d468abe90158347d20fa7dc62e9234d5
